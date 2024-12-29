@@ -1,7 +1,8 @@
 # Book Management Application
 
 [![Demo Video](https://img.shields.io/badge/Video-Demo-blue?style=for-the-badge)](https://drive.google.com/drive/folders/1cDPE7lLfP2mI90bgGwC-zHoayRK3Vk1D?usp=sharing)
-![Demo Preview](assets/output.gif)
+
+![Demo Preview](output.gif)
 
 
 This project is a simple web application that allows users to manage a list of books. Users can add, view, update, and delete books through a user-friendly interface. The application consists of a frontend built with Angular and a backend implemented in ASP.NET with C#.
